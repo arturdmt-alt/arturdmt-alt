@@ -2,7 +2,9 @@
 
 **QA Automation Engineer** with project management background, building scalable test frameworks and quality-first systems.
 
-I specialize in end-to-end test automation across web, API, mobile, and database layers, with expertise in chaos engineering, security testing, and CI/CD pipeline integration. Transitioned from PM in translation services to QA engineering with 20+ hands-on automation projects. Based in Vancouver, BC.
+I specialize in end-to-end test automation across web, API, mobile, and database layers, with expertise in chaos engineering, security testing, and CI/CD pipeline integration.
+
+Transitioned from PM in translation services to QA engineering with 20+ hands-on automation projects.
 
 ## 🛠️ Tech Stack
 
@@ -41,10 +43,6 @@ Comprehensive API testing framework with Python and Pytest, including schema val
 ### [Cypress Testing Framework](https://github.com/arturdmt-alt/QA_Cypress_Framework)
 Professional E2E testing framework using Cypress and JavaScript for modern web application testing.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturdmt-alt&show_icons=true&theme=dark&hide_border=true)
-
 ## 🎯 What's Next
 
 Expanding JavaScript/TypeScript automation expertise with:
@@ -60,4 +58,4 @@ Expanding JavaScript/TypeScript automation expertise with:
 
 ---
 
-*Quality is engineered, not tested in.*
+*Systematic quality engineering through AI-assisted workflows, iterative validation, and rigorous cross-verification—refining frameworks to achieve production-grade resilience, security, and reliability.*
