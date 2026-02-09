@@ -51,7 +51,7 @@ Expanding JavaScript/TypeScript automation expertise with:
 - GraphQL API testing
 - Java Selenium with TestNG
 
-## 📫 Connect With Me
+## 📫 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arturdmytriyev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturdmytriyev@gmail.com)
